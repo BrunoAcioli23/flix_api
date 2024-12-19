@@ -68,7 +68,3 @@ O projeto está organizado nas seguintes pastas:
    ```
 
 3. Acesse o aplicativo em `http://127.0.0.1:8000/`.
-
-4. Para acessar a versão hospedada da API, use o seguinte link:
-   [Flix API hospedada](https://brunoacioli23.pythonanywhere.com/admin/).
-
